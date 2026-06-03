@@ -1,7 +1,7 @@
-# Hi, I'm Pooja Thakur 👋
+
 
 ## About Me
-I am a dedicated Project Coordinator with experience in project management, sprint planning, resource tracking, reporting, and team coordination. I enjoy collaborating with teams to ensure projects are delivered efficiently and on time.
+I am a dedicated Program Manager with experience in project management, sprint planning, resource tracking, reporting, and team coordination. I enjoy collaborating with teams to ensure projects are delivered efficiently and on time.
 
 ## Skills
 - Project Coordination
@@ -9,27 +9,24 @@ I am a dedicated Project Coordinator with experience in project management, spri
 - Sprint Planning & Tracking
 - Azure DevOps
 - GitHub
-- Jira
 - Hubstaff
 - Microsoft Excel
 - Microsoft Teams
 - Reporting & Documentation
-- Stakeholder Communication
+
 
 ## What I Do
 - Manage project timelines and deliverables
 - Track sprint progress and team capacity
 - Coordinate with development and QA teams
 - Prepare project reports and status updates
-- Facilitate communication between stakeholders and project teams
+
 
 ## Tools & Technologies
 - Azure DevOps
 - GitHub
 - Microsoft Office Suite
 - Hubstaff
-- Jira
-- Confluence
 - Microsoft Teams
 
 ## Currently Learning
